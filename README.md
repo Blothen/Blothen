@@ -36,8 +36,8 @@
 
 <img align="left" alt="Blothen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Blothen&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
-[blank]: https://nourl.com
-[website]: https://blothen.tech
-[twitter]: https://twitter.com/CiaranJohnson14
-[instagram]: https://instagram.com/cxaran_johnson_
+[blank]: https://www.nourl.com
+[website]: https://www.blothen.tech
+[twitter]: https://www.twitter.com/CiaranJohnson14
+[instagram]: https://www.instagram.com/cxaran_johnson_
 [linkedin]: https://www.linkedin.com/in/ciaran-johnson-3918b4198/
